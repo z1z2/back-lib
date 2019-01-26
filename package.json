@@ -1,0 +1,19 @@
+{
+  "name": "back-lib",
+  "version": "1.0.0",
+  "description": "backend library, to be used by backend application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1z2/back-lib.git"
+  },
+  "author": "z1z2",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/z1z2/back-lib/issues"
+  },
+  "homepage": "https://github.com/z1z2/back-lib#readme"
+}
