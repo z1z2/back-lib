@@ -1,6 +1,5 @@
 'use strict';
 const path = require('path');
-// const JsDocPlugin = require('jsdoc-webpack-plugin');
 
 
 module.exports = {
@@ -12,9 +11,4 @@ module.exports = {
     path: path.resolve(__dirname, 'build'),
     filename: 'back-lib.js',
   },
-  // plugins: [
-  //   new JsDocPlugin({
-  //     conf: './jsdoc.json',
-  //   }),
-  // ],
 };
